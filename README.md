@@ -2,8 +2,8 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> Online Child Safety Bot</h2>
+	<h4 align="center"> Detect predatory chats or dialogues by criminals online <h4>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## Preview
 - Add pictures or important highlights from the Project (if any)
 ## Functionalities
-- [ ]  < insert functionality >
+- [ ]  Send the c
 - [ ]  < insert functionality >
 - [ ]  < insert functionality >
 - [ ]  < insert functionality >
@@ -27,16 +27,7 @@
 	-  < insert pre-requisite >
 	-  < insert pre-requisite >
 
-* < directions to install > 
-```bash
-< insert code >
-```
-
-* < directions to execute >
-
-```bash
-< insert code >
-```
+* The Bot is deployed with StreamLit : 
 
 ## Contributors
 
@@ -46,7 +37,7 @@
 
 <td>
 
-John Doe
+Naman Garg
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -62,7 +53,7 @@ John Doe
 
 <td>
 
-John Doe
+Pooja Ravi
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -79,7 +70,22 @@ John Doe
 
 <td>
 
-John Doe
+Breenda Das
+
+<p align="center">
+<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/person3"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/person3">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+
+Sadhavi 
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
