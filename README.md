@@ -10,8 +10,8 @@
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE)
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
-## Preview
-The purpose of our application is to build a bot (called SAF in the images shown below) which will warn users against potential predators while engaging in conversations via chatrooms. It is based on predictions made by the LSTM model trained on dangerous and relatively normal conversations.
+## Preview of the application
+The purpose of our application was to build a bot (called SAF in the images shown below) which warns users against potential predators while engaging in conversations via (online) chatrooms. It is based on predictions made by the LSTM model trained on dangerous and relatively normal conversations.
 
 __Welcome Page__
 
@@ -39,7 +39,7 @@ __Normal chats__
 
 ## Instructions to run
 
-* Pre-requisites:
+* Dependencies:
 	-  Tensorflow
 	-  Keras
 	-  Numpy
@@ -50,6 +50,13 @@ __Normal chats__
   -  Streamlit
 
 * The Bot (application) has been built using Streamlit.
+
+## Future improvements
+
+* Model's responses are random and can instead be tailored to fit user's responses or questions.
+* The bot makes accurate predictions as to whether a conversation is dangerous or not, most of the time, but requires fine-tuning.
+* Each conversation between the bot and user lasts only for one iteration. This can be extended to include actual conversations.
+* This bot can be built as an extension instead of a stand-alone application and can be employed in actual online chatrooms.
 
 ## Contributors
 
