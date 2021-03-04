@@ -29,10 +29,10 @@ __Normal chats__
 
 ## Functionalities
 
-- [ ]  Detecting potential predators in online chatrooms.
-- [ ]  Chatting with Bot.
-- [ ]  Chatting with another person.
-- [ ]  Warning is displayed whenever perverted texts are detected.
+- [ ]  Detects potential predators in online chatrooms.
+- [ ]  Provides a chatting interface with the bot which generates responses and predicts whether they're dangerous or safe.
+- [ ]  Displays warning messages when texts are perverted or suspicious.
+- [ ]  User can also provide text inputs to the bot which will then detect how perverted they are.
 
 <br>
 
