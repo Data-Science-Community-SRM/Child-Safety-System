@@ -7,7 +7,7 @@ norm.head()
 norm.drop_duplicates(subset='text',inplace=True)
 norm.shape
 
-!unzip '/content/archive (1).zip'
+#!unzip '/content/archive (1).zip'
 ham=pd.read_csv('/content/spam.csv',encoding='ISO-8859-1')
 ham.head()
 ham.drop('Unnamed: 2',axis=1,inplace=True)

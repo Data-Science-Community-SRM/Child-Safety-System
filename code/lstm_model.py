@@ -39,7 +39,7 @@ test_pad=pad_sequences(test_tok,maxlen=50,padding='pre')
 from google.colab import drive
 drive.mount('/content/drive')
 
-!unzip '/content/drive/My Drive/glove.6B.300d.txt.zip'
+#!unzip '/content/drive/My Drive/glove.6B.300d.txt.zip'
 
 glove_vectors={}
 f=open('/content/glove.6B.300d.txt',encoding='utf-8')
