@@ -11,7 +11,15 @@
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Preview
-- Add pictures or important highlights from the Project (if any)
+The purpose of our application is to build a bot (called SAF in the images shown below) which will warn users against potential predators while engaging in conversations via chatrooms. It is based on predictions made by the LSTM model trained on dangerous and relatively normal conversations.
+__Welcome Page__
+![Welcome page](data\bot6.jpg)
+__Potentially dangerous chats__
+![dangerous chats](data\bot2.jpg)
+![dangerous chats](data\bot3.jpg)
+__Normal chats__
+![normal chats](data\bot1.jpg)
+![normal chats](data\bot5.jpg)
 ## Functionalities
 - [ ]  To detect online predators or criminal.
 - [ ]  Chatting with Bot.
