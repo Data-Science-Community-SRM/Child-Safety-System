@@ -12,16 +12,17 @@
 
 ## Preview
 The purpose of our application is to build a bot (called SAF in the images shown below) which will warn users against potential predators while engaging in conversations via chatrooms. It is based on predictions made by the LSTM model trained on dangerous and relatively normal conversations.
-#Welcome Page
+
+__Welcome Page__
 
 ![Welcome page](data/bot6.jpg)
 
-#Potentially dangerous chats
+__Potentially dangerous chats__
 
 ![dangerous chats](data/bot2.jpg)
 ![dangerous chats](data/bot3.jpg)
 
-#Normal chats
+__Normal chats__
 
 ![normal chats](data/bot1.jpg)
 ![normal chats](data/bot5.jpg)
