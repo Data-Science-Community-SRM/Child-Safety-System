@@ -3,7 +3,7 @@
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
 	<h2 align="center"> Online Child Safety</h2>
-	<h4 align="center"> Detect predatory chats or dialogues by criminals online <h4>
+	<h4 align="center"> An application that detects and warns users against potential predators in online chatrooms <h4>
 </p>
 
 ---
@@ -29,7 +29,7 @@ __Normal chats__
 
 ## Functionalities
 
-- [ ]  To detect potential predators in online chatrooms.
+- [ ]  Detecting potential predators in online chatrooms.
 - [ ]  Chatting with Bot.
 - [ ]  Chatting with another person.
 - [ ]  Warning is displayed whenever perverted texts are detected.
