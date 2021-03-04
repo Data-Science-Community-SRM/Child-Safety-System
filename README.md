@@ -7,11 +7,19 @@
 </p>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
+[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE)
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Preview
-- Add pictures or important highlights from the Project (if any)
+The purpose of our application is to build a bot (called SAF in the images shown below) which will warn users against potential predators while engaging in conversations via chatrooms. It is based on predictions made by the LSTM model trained on dangerous and relatively normal conversations.
+__Welcome Page__
+![Welcome page](data\bot6.jpg)
+__Potentially dangerous chats__
+![dangerous chats](data\bot2.jpg)
+![dangerous chats](data\bot3.jpg)
+__Normal chats__
+![normal chats](data\bot1.jpg)
+![normal chats](data\bot5.jpg)
 ## Functionalities
 - [ ]  < insert functionality >
 - [ ]  < insert functionality >
@@ -27,7 +35,7 @@
 	-  < insert pre-requisite >
 	-  < insert pre-requisite >
 
-* < directions to install > 
+* < directions to install >
 ```bash
 < insert code >
 ```
@@ -93,11 +101,10 @@ John Doe
 </td>
 </tr>
   </table>
-  
+
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
 	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
 </p>
-
