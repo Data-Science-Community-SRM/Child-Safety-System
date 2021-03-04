@@ -7,7 +7,7 @@
 </p>
 
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
+[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE)
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Preview
@@ -28,7 +28,7 @@
 	-  Keras
 	-  Streamlit
 	-  Pandas
-* The Bot is deployed with StreamLit : 
+* The Bot has been built using with Streamlit.
 
 ## Contributors
 
@@ -100,11 +100,10 @@ Sadhavi Thapa
 </td>
 </tr>
   </table>
-  
+
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
 	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
 </p>
-
