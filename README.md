@@ -12,19 +12,26 @@
 
 ## Preview
 The purpose of our application is to build a bot (called SAF in the images shown below) which will warn users against potential predators while engaging in conversations via chatrooms. It is based on predictions made by the LSTM model trained on dangerous and relatively normal conversations.
-__Welcome Page__
+#Welcome Page
+
 ![Welcome page](data/bot6.jpg)
-__Potentially dangerous chats__
+
+#Potentially dangerous chats
+
 ![dangerous chats](data/bot2.jpg)
 ![dangerous chats](data/bot3.jpg)
-__Normal chats__
+
+#Normal chats
+
 ![normal chats](data/bot1.jpg)
 ![normal chats](data/bot5.jpg)
+
 ## Functionalities
-- [ ]  To detect online predators or criminal.
+
+- [ ]  To detect potential predators in online chatrooms.
 - [ ]  Chatting with Bot.
-- [ ]  Chatting with other person.
-- [ ]  Warning is displayed whenever perverted text is detected.
+- [ ]  Chatting with another person.
+- [ ]  Warning is displayed whenever perverted texts are detected.
 
 <br>
 
@@ -34,9 +41,14 @@ __Normal chats__
 * Pre-requisites:
 	-  Tensorflow
 	-  Keras
-	-  Streamlit
+	-  Numpy
 	-  Pandas
-* The Bot has been built using with Streamlit.
+	-  pickle
+	-  NLTK
+	-  Symspellpy
+  -  Streamlit
+
+* The Bot (application) has been built using Streamlit.
 
 ## Contributors
 
