@@ -62,7 +62,7 @@ __Normal chats__
 Naman Garg
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/40496687?s=400&u=aeba7754d8bba23a2ab9fb2d794cc316b2b6a84b&v=4"  height="120" alt="Naman Garg">
 </p>
 <p align="center">
 <a href = "https://github.com/Namangarg110"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -78,7 +78,8 @@ Naman Garg
 Pooja Ravi
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/66198904?s=400&u=8b808b3dae9c8885445eadfa5e50ba260d9305f7&v=4"  height="120"
+alt="Pooja Ravi">
 </p>
 <p align="center">
 <a href = "https://github.com/01pooja10"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -95,7 +96,7 @@ Pooja Ravi
 Breenda Das
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/66198218?s=400&u=626a6d7ce4f3ea271bd3f09c67a109c0eeb69f44&v=4"  height="120" alt="Breenda Das">
 </p>
 <p align="center">
 <a href = "https://github.com/ds-brx"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -110,7 +111,8 @@ Breenda Das
 Sadhavi Thapa
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/77241570?s=400&v=4"  height="120"
+alt="Sadhavi Thapa">
 </p>
 <p align="center">
 <a href = "https://github.com/Sadhavithapa"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
